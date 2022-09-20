@@ -1,0 +1,5 @@
+﻿Aluno: Halliday Gauss e Thiago Borba.
+
+Algortimo questão 2: Complexibilidade de tempo O(1)
+
+Desvantagem - Espaço sub-utilizado nas tabelas.

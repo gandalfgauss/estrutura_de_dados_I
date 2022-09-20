@@ -1,0 +1,1339 @@
+
+Digite o número do exercício: 
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: NOME: CPF: CURSO: DATA DE INGRESSO: 
+ALUNO Gauss CADASTRADO COM SUCESSO
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: NOME: CPF: CURSO: DATA DE INGRESSO: 
+ALUNO Kevin CADASTRADO COM SUCESSO
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+LISTA DE ALUNOS: 
+
+NOME: Gauss || MATRICULA: 1825883
+NOME: Kevin || MATRICULA: 1728888
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+LISTA DE PROFESSORES: 
+
+
+NAO EXISTEM PROFESSORES CADASTRADOS NO MOMENTO
+
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+INSERIR DADOS DO PROFESSOR:
+
+SIAPE: NOME: 
+PROFESSOR  Jao CADASTRADO COM SUCESSO
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+LISTA DE PROFESSORES: 
+
+NOME: Jao || SIAPE: 123456
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+INSERIR DADOS DA DISCIPLINA:
+
+CODIGO: NOME: CARGA HORARIA: 
+CARGA HORARIA INVALIDA (4 ou 8 horas)
+DIGITE NOVAMENTE
+
+CARGA HORARIA: CURSO: SALA: 
+DISCIPLINA CADASTRADA COM SUCESSO
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+LISTA DE DISCIPLINAS: 
+
+NOME: Biologia || CODIGO: 1234
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+INSIRA A MATRICULA DO ALUNO:
+
+MATRICULA: 
+ALUNO NAO ENCONTRADO
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+INSERIR DADOS DA DISCIPLINA:
+
+CODIGO: NOME: CARGA HORARIA: CURSO: SALA: 
+DISCIPLINA CADASTRADA COM SUCESSO
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+INSERIR DADOS DA DISCIPLINA:
+
+CODIGO: NOME: CARGA HORARIA: CURSO: SALA: 
+DISCIPLINA CADASTRADA COM SUCESSO
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+INSERIR DADOS DA DISCIPLINA:
+
+CODIGO: NOME: CARGA HORARIA: CURSO: SALA: 
+DISCIPLINA CADASTRADA COM SUCESSO
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: NOME: CPF: CURSO: DATA DE INGRESSO: 
+ALUNO Maria  CADASTRADO COM SUCESSO
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+LISTA DE ALUNOS: 
+
+NOME: Gauss || MATRICULA: 1825883
+NOME: Kevin || MATRICULA: 1728888
+NOME: Maria  || MATRICULA: 151515
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: NOME: CPF: CURSO: DATA DE INGRESSO: 
+ALUNO Jaspion CADASTRADO COM SUCESSO
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: NOME: CPF: CURSO: DATA DE INGRESSO: 
+ALUNO Capitao  CADASTRADO COM SUCESSO
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+INSERIR DADOS DO PROFESSOR:
+
+SIAPE: NOME: 
+PROFESSOR  Professor CADASTRADO COM SUCESSO
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+INSERIR DADOS DO PROFESSOR:
+
+SIAPE: NOME: 
+PROFESSOR  Cotonete CADASTRADO COM SUCESSO
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+INSERIR DADOS DO PROFESSOR:
+
+SIAPE: NOME: 
+PROFESSOR  MIfu CADASTRADO COM SUCESSO
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+INSERIR DADOS DO PROFESSOR:
+
+SIAPE: NOME: 
+PROFESSOR  Muralha CADASTRADO COM SUCESSO
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+INSERIR DADOS DA DISCIPLINA:
+
+CODIGO: NOME: CARGA HORARIA: CURSO: SALA: 
+DISCIPLINA CADASTRADA COM SUCESSO
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+INSIRA A MATRICULA DO ALUNO:
+
+MATRICULA: 
+ALUNO NAO ENCONTRADO
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+INSIRA A MATRICULA DO ALUNO:
+
+MATRICULA: 
+ALUNO NAO ENCONTRADO
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+INSERIR DADOS DO ALUNO:
+
+MATRICULA: 
+MATRICULA JA EXISTENTE
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+Digite o número do exercício: 
+Digite o número do exercício: 
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+LISTA DE ALUNOS: 
+
+NOME: Gauss || MATRICULA: 1825883
+NOME: Kevin || MATRICULA: 1728888
+NOME: Maria  || MATRICULA: 151515
+NOME: Jaspion || MATRICULA: 1616
+NOME: Capitao  || MATRICULA: 222333
+
+
+1-INSERIR ALUNO
+2-REMOVER ALUNO
+3-ATUALIZAR ALUNO
+4-BUSCAR ALUNO
+5-LISTAR ALUNOS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+LISTA DE PROFESSORES: 
+
+NOME: Jao || SIAPE: 123456
+NOME: Professor || SIAPE: 4343
+NOME: Cotonete || SIAPE: 5656
+NOME: MIfu || SIAPE: 3355
+NOME: Muralha || SIAPE: 6567
+
+
+1-INSERIR PROFESSOR
+2-REMOVER PROFESSOR
+3-ATUALIZAR PROFESSOR
+4-BUSCAR PROFESSOR
+5-LISTAR PROFESSORES
+
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+LISTA DE DISCIPLINAS: 
+
+NOME: Biologia || CODIGO: 1234
+NOME: a || CODIGO: 2222
+NOME: Biologo || CODIGO: 1111
+NOME: Arte || CODIGO: 0000
+NOME: Estrutura  || CODIGO: 3366
+
+
+1-INSERIR DISCIPLINA
+2-REMOVER DISCIPLINA
+3-ATUALIZAR DISCIPLINA
+4-BUSCAR DISCIPLINA
+5-LISTAR DISCIPLINAS
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+LISTA DE DISCIPLINAS DO ALUNO:
+
+
+NAO EXISTEM ATESTADOS CADASTRADOS NO MOMENTO
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-MATRICULAR
+2-REMOVER
+3-LISTAR
+0-SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+1-CRIAR
+2-REMOVER
+3-LISTAR
+0SAIR
+
+LISTA DE DISCIPLINAS DO PROFESSOR:
+
+
+NAO EXISTEM ATESTADOS CADASTRADOS NO MOMENTO
+
+
+1-CRIAR
+2-REMOVER
+3-LISTAR
+0SAIR
+
+OPCAO INVALIDA!
+DIGITE NOVAMENTE!
+
+
+1-CRIAR
+2-REMOVER
+3-LISTAR
+0SAIR
+
+Digite uma opção: 
+1-ALUNO
+2-PROFESSOR
+3-DISCIPLINA
+4-ATESTADO DE MATRICULA
+5-ENCARGOS DE PROFESSOR
+0-SAIR
+
+Digite o número do exercício: Digite: 
+0 para espaço 
+1 para parede
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 000 000 *** 000 *** *** *** *** *** *** 
+2 *** 000 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 000 000 *** 000 *** *** *** *** *** *** 
+2 *** 000 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 000 000 *** 000 *** *** *** *** *** *** 
+2 *** 000 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu 000 *** 000 *** *** *** *** *** *** 
+2 *** 000 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** 000 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu 000 *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** 000 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu 000 *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** 000 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu 000 *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** 000 *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 000 000 000 000 000 *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 000 000 000 000 aqu *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 000 000 000 aqu aqu *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 000 000 aqu aqu aqu *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 000 aqu aqu aqu aqu *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 000 *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 000 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu 000 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu 000 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu 000 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu 000 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu 000 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu 000 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu 000 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu 000 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu 000 
+9 *** *** *** *** *** *** *** *** *** fim
+
+
+fim
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+0 inicio *** 000 000 000 000 000 000 000 000 
+1 aqu aqu *** 000 *** *** *** *** *** *** 
+2 *** aqu aqu *** 000 000 000 *** 000 *** 
+3 *** *** aqu aqu *** 000 000 *** 000 000 
+4 000 *** *** aqu aqu *** 000 *** 000 000 
+5 000 000 000 *** aqu *** 000 *** 000 000 
+6 aqu aqu aqu aqu aqu *** 000 *** 000 000 
+7 aqu *** *** *** *** *** 000 *** *** *** 
+8 aqu aqu aqu aqu aqu aqu aqu aqu aqu aqu 
+9 *** *** *** *** *** *** *** *** *** fim
+
+
+Digite o número do exercício: 
+Digite a base e o expoente: Resultado: 32
+Digite o número do exercício: 
