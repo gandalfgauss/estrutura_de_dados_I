@@ -1,0 +1,36 @@
+
+Lista criada !
+
+Digite
+0-Sair
+1-Inserir
+2-Inserir Ordenado
+3-Retira
+4-Vazia
+5-Pertence
+6-Imprime
+7-Insere Última Posição
+8-Retira Última Posição
+Lista vazia
+Digite um inteiro: 
+Inserida com sucesso
+Digite um inteiro: 
+Inserida com sucesso
+Digite um inteiro: 
+Inserida com sucesso
+Digite um inteiro: 
+Inserida com sucesso
+Digite um inteiro: 
+Inserida com sucesso
+5 4 3 2 1 
+Digite um inteiro: Lista Ordenada Inserida
+5 4 3 2 1 6 
+Digite um inteiro
+Retirado com sucesso
+5 4 2 1 6 
+Lista não vazia
+Digite um inteiro: Elemento pertence a uma lista
+Inserida com sucesso
+Retirada com sucesso
+5 4 2 1 
+Lista deletada !

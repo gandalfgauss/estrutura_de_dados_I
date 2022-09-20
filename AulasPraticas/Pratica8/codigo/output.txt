@@ -1,0 +1,115 @@
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+Digite o nome do contato: Digite o numero de telefone e o aniversário: 
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+Digite o nome do contato: Digite o numero de telefone e o aniversário: 
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+Digite o nome do contato: Digite o numero de telefone e o aniversário: 
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+Digite o nome do contato: Nome: ivone
+Telefone: 88
+Aniversario: 15
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+
+Nome: rangel
+
+Nome: hall
+
+Nome: ivone
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+
+Nome: hall
+
+Nome: ivone
+
+Nome: rangel
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+
+Nome: rangel
+
+Nome: hall
+
+Nome: ivone
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+Digite o nome do contato: 
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central
+
+Nome: ivone
+
+Nome: hall
+
+Digite:
+0-Sair
+1-Criar
+2-Buscar
+3-Remover
+4-Caminhamento Pré-Ordem
+5-Caminhamento Pós-Ordem
+6-Caminhamento Central

@@ -1,0 +1,140 @@
+1
+1
+1725883
+Marcelo Trajano
+07134629490
+Analista de Recursos Vegetais
+2017.2
+1
+1728888
+Maria Mole
+07134646460
+Escultor de Lego
+2016.1
+5
+0
+2
+5
+1
+123456
+Princesa Jujuba
+5
+0
+3
+1
+1234
+Domador de Frango Selvagem 2
+5
+4
+Escultor de Lego
+104
+5
+0
+4
+1
+1725883
+1234
+0
+3
+1
+2222
+Carteado 3
+4
+Tecnico em Isqueiros
+104
+1
+1111
+Observador de Albatroz
+8
+Recrutador de Albatrozes Errantes
+105
+1
+0000
+Pirofobia 2
+8
+Tecnico em Isqueiros
+106
+0
+1
+1
+151515
+Maria do Bairro
+0704545351
+Tecnico em Socialite
+10152018
+5
+1
+1616
+Jaspion Fernandes
+01346524645
+Tecnico em Isqueiros
+10232018
+1
+222333
+Capitao Caverna
+0463546698
+Escultor de Lego
+02022018
+0
+2
+1
+4343
+Girafales
+1
+5656
+Kesuke Miyagi
+1
+3355
+Johnny Lawrence
+1
+6567
+Huckleberry Finn
+0
+3
+1
+3366
+Estrutura de Carpetes
+4
+Engenharia de Carpetes
+c105
+0
+4
+1
+1725883
+2222
+1
+1725883
+0000
+1
+1728888
+3366
+1
+1728888
+0000
+0
+5
+1
+5656
+1234
+1
+3355
+3366
+0
+1
+5
+0
+2
+5
+0
+3
+5
+0
+4
+3
+1725883
+0
+5
+3
+3355
+0
+0
